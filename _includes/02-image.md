@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My favorite cheeseburger](https://hips.hearstapps.com/delish/assets/17/12/1490102821-delish-giant-party-cheeseburger-1.jpg)
